@@ -14,15 +14,15 @@
 📫 How to reach me: &nbsp; <sub>
   <a href="https://www.linkedin.com/in/lucas-uzias-acevedo/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
   </a> </sub>
-<!---
-⚡ Fun fact: 
---->
+  
  <br />
-
- <div align="center">
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<!---- o añadir &hide_progress=true para quitar porcentajes!
+--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucUAce&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
+
 
 <!-----
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
