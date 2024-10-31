@@ -23,8 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucUAce&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
 
+ <br />
 
-<!-----
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-...
---->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,firebase,fortran,gcp,jenkins,kubernetes,latex,mysql,py,r&theme=dark" alt="Some Skills"> &nbsp; ...and growing!
+</div>
+
