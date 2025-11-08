@@ -3,11 +3,11 @@
 </div>
 <br />
 
-👀 I’m interested in **Artificial Intelligence**, **Data Science**, **Formal Verification**, and video game development, among other things...
+👀 I’m interested in **Artificial Intelligence**, **Data Science**, **Robotic Process Automation**, among other things...
 
-🎓 I'm a **Mathematician** and **Logician**, and I hold a Google Cloud Data Engineer certification.
+🎓 I'm a **Mathematician** and **Logician**, and I hold some Google Cloud Data Engineer certifications.
 
-🌱 I’m currently learning **Python** and **SQL** for Data Science applications. I'm also learning to play the bass guitar and how to draw!
+🌱 I’m currently learning **Python** and **SQL** for Data Science applications, and **HTML** and **JavaScript** for web applications with database connectivity. I'm also learning to play the bass guitar!
 
 💞️ I’m looking to collaborate on anything interesting!
 
@@ -26,6 +26,6 @@
  <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,docker,firebase,fortran,gcp,jenkins,kubernetes,latex,mysql,py,r&theme=dark" alt="Some Skills"> &nbsp; ...and growing!
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,firebase,fortran,gcp,jenkins,kubernetes,latex,mysql,py,sql,html,javascript r&theme=dark" alt="Some Skills"> &nbsp; ...and growing!
 </div>
 
