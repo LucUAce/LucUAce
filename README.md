@@ -16,11 +16,9 @@
   </a> </sub>
   
  <br />
- 
-<!---- o añadir &hide_progress=true para quitar porcentajes!
---->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucUAce&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+
+ <div align="center">
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=LucUAce&layout=compact&theme=vision-friendly-dark) alt="Top Languages">
 </div>
 
  <br />
