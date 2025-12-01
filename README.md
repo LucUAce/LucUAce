@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Python** and **SQL** for Data Science applications, and **HTML** and **JavaScript** for web applications with database connectivity. I'm also learning to play the bass guitar!
 
-💞️ I’m looking to collaborate on anything interesting!
+💞️ I’m open to collaborate on anything interesting!
 
 📫 How to reach me: &nbsp; <sub>
   <a href="https://www.linkedin.com/in/lucas-uzias-acevedo/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
