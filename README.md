@@ -15,13 +15,14 @@
   <a href="https://www.linkedin.com/in/lucas-uzias-acevedo/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> 
   </a> </sub>
   
- <br />
 
- <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=LucUAce&layout=compact&theme=vision-friendly-dark) alt="Top Languages">
+<div align="center">
+  <!-- <img src="(https://readmestats.999857.xyz/top-langs/?username=LucUAce&layout=compact&theme=vision-friendly-dark) alt="Top Languages"> 
+  --> 
+  <img href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=LucUAce&layout=compact&hide_border=true&theme=tokyonight" /></img>
 </div>
 
- <br />
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,docker,firebase,fortran,gcp,jenkins,kubernetes,latex,mysql,py,html,js&theme=dark" alt="Some Skills"> &nbsp; ...and growing!
