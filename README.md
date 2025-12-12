@@ -25,6 +25,6 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,docker,firebase,fortran,gcp,jenkins,kubernetes,latex,mysql,py,html,js&theme=dark" alt="Some Skills"> &nbsp; ...and growing!
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,fortran,gcp,jenkins,kubernetes,latex,mysql,py,html,js&theme=dark" alt="Some Skills"> &nbsp; ...and growing!
 </div>
 
