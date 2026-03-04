@@ -3,7 +3,7 @@
 </div>
 <br />
 
-👀 I’m interested in **Artificial Intelligence**, **Data Science**, **Robotic Process Automation**, among other things...
+👀 I’m interested in **Artificial Intelligence**, **Data Science**, **Optimization**, among other things...
 
 🎓 I'm a **Mathematician** and **Logician**, and I hold some Google Cloud Data Engineer certifications.
 
